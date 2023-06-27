@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed13a71a43c3fea408e91a7e9ebc8520, type: 3}
+  m_Name: RoundKickStrike-Current
+  m_EditorClassIdentifier: 
+  skillName: Round Kick Strike
+  skillSprite: {fileID: 21300000, guid: 1d7e1548e7fc4c74faee93a7cfe2d397, type: 3}
+  frameSprite: {fileID: 21300000, guid: 7d0dd63d76c7ea94b804524fb6dc6af1, type: 3}
+  manaCost: 20
+  skillLevel: 0
+  requiredLevel: 4
+  requiredSkillPoint: 2
+  multipleAttack: 1.2
+  cooldownTime: 5
+  skillRange: 2
+  isUpgrade: 0
+  skillDescription: A powerful round kick dealing damage and push back enemies in
+    front of you
+  previousSkill:
+  - {fileID: 11400000, guid: 3c33d45334c40044586bf72c26609a29, type: 2}
+  skillType: 0

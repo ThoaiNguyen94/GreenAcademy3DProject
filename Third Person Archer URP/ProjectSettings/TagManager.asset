@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CinemachineTarget
+  - Enemies
+  - PlayerHealthBar
+  - PlayerManaBar
+  - EnemyHealthBar
+  - ManaBar
+  - HealthBar
+  - CrossHairTarget
+  - Barrel
+  - ArrowParent
+  - Weapon
+  - Allies
+  - PlayerBase
+  - EnemyBase
+  - Waypoints
+  - CinemachineCam
+  - DialogueBox
+  - PlayerCanvas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - MeleeFemale
+  - MeleeMale
+  - Range
+  - MeleeBoss
+  - PlayerRange
+  - PlayerMelee
+  - Minimap
+  - AlliesMelee
+  - AlliesRange
+  - EnemyBase
+  - PlayerBase
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 4141461721
+    locked: 0
+  - name: CharacterIcon
+    uniqueID: 219930149
+    locked: 0

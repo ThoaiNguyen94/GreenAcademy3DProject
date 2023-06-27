@@ -1,0 +1,62 @@
+[
+	{
+		"enemyLayer": "MeleeFemale",
+		"maxHealth": 320,
+		"currentHealth": 320,
+		"regenHealth": 3,
+		"moveSpeed": 0.5,
+		"runSpeed": 3.5,
+		"detectRange": 20,
+		"attackDamage": 32,
+		"attackSpeed": 1,
+		"attackRange": 2
+	},
+	{
+		"enemyLayer": "MeleeMale",
+		"maxHealth": 410,
+		"currentHealth": 410,
+		"regenHealth": 4,
+		"moveSpeed": 0.5,
+		"detectRange": 20,
+		"runSpeed": 3.5,
+		"attackDamage": 41,
+		"attackSpeed": 1,
+		"attackRange": 2
+	},
+	{
+		"enemyLayer": "Range",
+		"maxHealth": 370,
+		"currentHealth": 370,
+		"regenHealth": 3,
+		"moveSpeed": 1,
+		"runSpeed": 3,
+		"detectRange": 20,
+		"attackDamage": 42,
+		"attackSpeed": 1,
+		"attackRange": 12
+	},
+	{
+		"enemyLayer": "MeleeBoss",
+		"maxHealth": 1000,
+		"currentHealth": 1000,
+		"regenHealth": 10,
+		"moveSpeed": 2,
+		"runSpeed": 5,
+		"detectRange": 20,
+		"attackDamage": 81,
+		"attackSpeed": 1,
+		"attackRange": 3
+	},
+	{
+		"enemyLayer": "EnemyBase",
+		"maxHealth": 4000,
+		"currentHealth": 4000,
+		"regenHealth": 0,
+		"moveSpeed": 0,
+		"runSpeed": 0,
+		"detectRange": 0,
+		"attackDamage": 0,
+		"attackSpeed": 0,
+		"attackRange": 0
+	}
+]

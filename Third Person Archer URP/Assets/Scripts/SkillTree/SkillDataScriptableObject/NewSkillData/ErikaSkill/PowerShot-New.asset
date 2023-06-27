@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed13a71a43c3fea408e91a7e9ebc8520, type: 3}
+  m_Name: PowerShot-New
+  m_EditorClassIdentifier: 
+  skillName: Power Shot
+  skillSprite: {fileID: 21300000, guid: 43e2d7faf13041145829b828fbd0636d, type: 3}
+  frameSprite: {fileID: 21300000, guid: 7d0dd63d76c7ea94b804524fb6dc6af1, type: 3}
+  manaCost: 80
+  skillLevel: 0
+  requiredLevel: 7
+  requiredSkillPoint: 3
+  multipleAttack: 2
+  cooldownTime: 2
+  skillRange: 14
+  isUpgrade: 0
+  skillDescription: This is a ranged attack that allows you to deliver a high amount
+    of damage from a distance
+  previousSkill:
+  - {fileID: 11400000, guid: 88ddcbd7b3a0ffa4a94e639ff6bb79ec, type: 2}
+  skillType: 3

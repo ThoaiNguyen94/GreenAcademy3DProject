@@ -1,0 +1,17 @@
+[
+	{
+		"weaponType": "Range",
+		"weaponName": "LongBow",
+		"weaponDamage": 20,
+		"weaponRange": 100,
+		"weaponFireRate": 1.1
+	},
+
+	{
+		"weaponType": "Melee",
+		"weaponName": "Sword",
+		"weaponDamage": 30,
+		"weaponRange": 10,
+		"weaponFireRate": 1.2
+	}
+]

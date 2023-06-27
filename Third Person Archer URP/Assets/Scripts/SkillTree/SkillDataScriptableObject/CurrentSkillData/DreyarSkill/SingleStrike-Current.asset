@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed13a71a43c3fea408e91a7e9ebc8520, type: 3}
+  m_Name: SingleStrike-Current
+  m_EditorClassIdentifier: 
+  skillName: Single Strike
+  skillSprite: {fileID: 21300000, guid: 3687a2513ff8ce24bbd49901f29b8227, type: 3}
+  frameSprite: {fileID: 21300000, guid: 7d0dd63d76c7ea94b804524fb6dc6af1, type: 3}
+  manaCost: 60
+  skillLevel: 1
+  requiredLevel: 4
+  requiredSkillPoint: 2
+  multipleAttack: 1.8
+  cooldownTime: 7
+  skillRange: 2
+  isUpgrade: 1
+  skillDescription: Swing your sword with precision and speed, dealing a powerful
+    strike to your enemy
+  previousSkill:
+  - {fileID: 11400000, guid: 796351c684f0fe7499693cc88e1e8fd3, type: 2}
